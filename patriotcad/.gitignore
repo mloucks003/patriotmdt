@@ -1,0 +1,30 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.env
+
+# Django
+*.log
+*.pot
+*.py[cod]
+*.sqlite3
+*.mo
+*.pot
+staticfiles/
+media/
+
+# MacOS
+.DS_Store
+
+# Node.js
+node_modules/
+dist/
+build/
